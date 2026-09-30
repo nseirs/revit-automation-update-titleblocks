@@ -11,7 +11,7 @@
 **Update Revit Titleblocks** is a .NET 8 solution designed to automate the process of updating title blocks in Autodesk Revit projects.
 
 This project was created to demonstrate APS Automation API capabilities as presented in Autodesk University 2025 session 3136, "Moving from Revit API Add-Ins to the Design Automation API: A Beginner’s Guide."  
-Learn more at: [AU2025 Session 3136](https://conferences.autodesk.com/flow/autodesk/au2025/sessioncatalog/page/inperson/session/1744832576550001cy7F)
+Learn more at: [AU2025 Session 3136](https://www.autodesk.com/autodesk-university/class/Moving-from-Revit-API-Add-Ins-to-the-Design-Automation-API-A-Beginners-Guide-2025)
 
 ---
 
